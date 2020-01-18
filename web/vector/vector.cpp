@@ -5,6 +5,6 @@ int main(){
     int *ptr = &x;
 
     std::cout << "WTF DO I DO FOR A CONFLICT GARAJO" << std::endl;
-    std::cout << x*x*x*x*x+ (*ptr) << std::endl;
+    std::cout << x*x << std::endl;
     return 0;
 }
